@@ -11,6 +11,10 @@
     "default_title":"Auto clicker"
   },
 
+  "icons":{
+    "300":"/assets/images/icon.png"
+  },
+  
   "permissions":["tabs"],
 
   "content_scripts": [
